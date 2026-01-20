@@ -24,10 +24,9 @@ Computer Engineering Undergraduate · AI / Machine Learning & Full-Stack
 
 ## Profile Summary
 
-I am a **Computer Engineering undergraduate** with a strong interest in  
-**Machine Learning, Data Analysis, and Intelligent Systems**.
+I am a Computer Engineering undergraduate with a strong interest in **Machine Learning**, Data Analysis, and Intelligent Systems, alongside **Full-Stack Development**.
 
-I focus on building **data-driven applications**, implementing **machine learning workflows**, and developing **scalable backend services** to support AI-powered solutions. I am actively seeking **AI / ML internship opportunities** to apply and grow my skills in real-world environments.
+I focus on building data-driven applications, designing and implementing machine learning workflows, and developing scalable backend services that support AI-powered solutions. I am eager to contribute my skills in real-world AI and ML projects while continuously expanding my technical expertise.
 
 ---
 
